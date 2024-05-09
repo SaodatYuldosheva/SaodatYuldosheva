@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+span,a,label{
+    display: inline-block;
+}
+img{
+    vertical-align: middle;
+    height: auto;
+    max-width: 100%;
+}
+.big{
+    max-width: 1000px;
+    margin-left: 500px;
+    background-color: aqua;
+    height: 500px;
+}
+.input1{
+    height: 35px;
+    margin-top: 50px;
+}
+.input2{
+    height: 35px;
+    margin-top: 50px;
+}
+.btn{
+    height: 35px;
+    margin-top: 50px;
+    background-color: rgb(50, 50, 212);
+    color: black;
+    font-size: 20px;
+}
+.box{
+    background-color: wheat;
+    height: 200px;
+    margin-top: 60px;
+}
